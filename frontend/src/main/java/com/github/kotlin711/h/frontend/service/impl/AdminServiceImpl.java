@@ -1,6 +1,6 @@
 package com.github.kotlin711.h.frontend.service.impl;
 
-import com.github.kotlin711.h.frontend.entity.Admin;
+import com.github.kotlin711.h.model.entity.Admin;
 import com.github.kotlin711.h.frontend.mapper.AdminMapper;
 import com.github.kotlin711.h.frontend.service.IAdminService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

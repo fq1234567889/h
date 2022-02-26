@@ -1,6 +1,6 @@
 package com.github.kotlin711.h.manager.service.impl;
 
-import com.github.kotlin711.h.manager.entity.Video;
+import com.github.kotlin711.h.model.entity.Video;
 import com.github.kotlin711.h.manager.mapper.VideoMapper;
 import com.github.kotlin711.h.manager.service.IVideoService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

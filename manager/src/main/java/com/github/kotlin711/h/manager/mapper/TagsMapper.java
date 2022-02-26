@@ -1,6 +1,6 @@
 package com.github.kotlin711.h.manager.mapper;
 
-import com.github.kotlin711.h.manager.entity.Tags;
+import com.github.kotlin711.h.model.entity.Tags;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

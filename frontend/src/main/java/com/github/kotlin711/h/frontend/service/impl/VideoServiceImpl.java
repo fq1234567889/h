@@ -1,6 +1,6 @@
 package com.github.kotlin711.h.frontend.service.impl;
 
-import com.github.kotlin711.h.frontend.entity.Video;
+import com.github.kotlin711.h.model.entity.Video;
 import com.github.kotlin711.h.frontend.mapper.VideoMapper;
 import com.github.kotlin711.h.frontend.service.IVideoService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

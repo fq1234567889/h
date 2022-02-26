@@ -1,6 +1,6 @@
 package com.github.kotlin711.h.manager.service.impl;
 
-import com.github.kotlin711.h.manager.entity.Types;
+import com.github.kotlin711.h.model.entity.Types;
 import com.github.kotlin711.h.manager.mapper.TypesMapper;
 import com.github.kotlin711.h.manager.service.ITypesService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

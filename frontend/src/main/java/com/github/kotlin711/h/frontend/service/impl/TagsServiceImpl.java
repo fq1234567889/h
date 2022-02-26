@@ -1,6 +1,6 @@
 package com.github.kotlin711.h.frontend.service.impl;
 
-import com.github.kotlin711.h.frontend.entity.Tags;
+import com.github.kotlin711.h.model.entity.Tags;
 import com.github.kotlin711.h.frontend.mapper.TagsMapper;
 import com.github.kotlin711.h.frontend.service.ITagsService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

@@ -1,6 +1,6 @@
 package com.github.kotlin711.h.manager.service;
 
-import com.github.kotlin711.h.manager.entity.Types;
+import com.github.kotlin711.h.model.entity.Types;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

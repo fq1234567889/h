@@ -1,6 +1,6 @@
 package com.github.kotlin711.h.frontend.service;
 
-import com.github.kotlin711.h.frontend.entity.Admin;
+import com.github.kotlin711.h.model.entity.Admin;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**
